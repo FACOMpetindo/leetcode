@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://leetcode.com/">
-<img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" alt="Leetcode" width="240" height="150"/>
+<img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" alt="Leetcode" width="290" height="210"/>
 </p>
 
 <p align='center'>
